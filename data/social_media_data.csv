@@ -1,0 +1,17 @@
+post_id,platform,date,time,content_type,caption,hashtags,views,likes,comments,shares,followers
+1,Instagram,2026-01-05,18:30,Reel,Python Tips,#python #coding,25000,2100,180,320,12500
+2,Instagram,2026-01-07,20:00,Image,Data Science Roadmap,#datascience #python,12000,950,70,110,12650
+3,YouTube,2026-01-09,17:00,Video,Learn Python,#python #programming,45000,4200,350,600,12800
+4,TikTok,2026-01-11,21:00,Short,AI Tools,#ai #technology,78000,8500,620,1200,13100
+5,Instagram,2026-01-13,19:30,Reel,Pandas Tutorial,#pandas #python,32000,3100,240,450,13400
+6,YouTube,2026-01-15,18:00,Video,Machine Learning Basics,#machinelearning #ai,52000,4800,410,750,13700
+7,TikTok,2026-01-17,20:30,Short,Python Tricks,#python #coding,92000,11000,850,1800,14200
+8,Instagram,2026-01-19,21:00,Reel,AI Career Guide,#ai #career,41000,3900,290,520,14600
+9,YouTube,2026-01-21,16:30,Video,Data Analysis Tutorial,#datascience #dataanalysis,38000,3500,270,490,14900
+10,TikTok,2026-01-23,19:00,Short,Data Science Tips,#datascience #career,67000,7200,540,980,15300
+11,Instagram,2026-01-25,18:00,Reel,NumPy Tutorial,#numpy #python,29000,2500,190,340,15700
+12,YouTube,2026-01-27,20:00,Video,AI Agents Explained,#agenticai #ai,61000,5900,470,850,16100
+13,TikTok,2026-01-29,21:30,Short,Machine Learning Tips,#machinelearning #ai,85000,9400,710,1500,16600
+14,Instagram,2026-02-01,19:30,Reel,Python Project Ideas,#python #projects,36000,3400,260,430,17000
+15,YouTube,2026-02-03,17:30,Video,SQL Tutorial,#sql #datascience,47000,4100,320,570,17400
+
