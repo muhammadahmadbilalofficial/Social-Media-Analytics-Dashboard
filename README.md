@@ -4,6 +4,10 @@ An interactive Data Science dashboard built with Python, Pandas, Plotly, and Str
 
 ---
 
+## 🌐 Live Demo
+
+🔗 [Open the Live Dashboard](https://social-media-analytics-dashboard-jmdpqybjvpxf5xedgjnngu.streamlit.app/)
+
 ## 🚀 Project Overview
 
 Social media platforms generate a large amount of performance data such as views, likes, comments, shares, followers, posting time, and content type.
